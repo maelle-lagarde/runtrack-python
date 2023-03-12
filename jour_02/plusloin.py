@@ -1,6 +1,6 @@
 def triangle(a, b, c):
     if a + b > c and a + c > b and b + c > a:
-        print("Ceci est un triangle.")
+        print("C'est est un triangle.")
         if a == b and b == c:
             print("Le triangle est équilatéral.")
         elif a == b or b == c or a == c:
