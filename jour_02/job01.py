@@ -4,7 +4,6 @@ def My_print_hello():
 message = My_print_hello()
 
 print(message)
-
 # deuxième solution
 
 def My_print_hello():
